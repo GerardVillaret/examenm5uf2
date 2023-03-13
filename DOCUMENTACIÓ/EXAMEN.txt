@@ -10,4 +10,9 @@ git add .
 git commit -m "Segona versio"
 git push origin master
 
+EXERCICI 3
+git add .
+git commit -m "Tercera versio"
+git push origin master
+
 
