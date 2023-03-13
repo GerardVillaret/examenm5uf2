@@ -1,5 +1,13 @@
+EXERCICI 1
 git init
 git remote add origin https://github.com/GerardVillaret/examenm5uf2.git
 git add .
 git commit -m "Primera versio"
 git push origin master
+
+EXERCICI 2
+git add .
+git commit -m "Segona versio"
+git push origin master
+
+
