@@ -41,6 +41,7 @@
             this.btAnimal.TabIndex = 0;
             this.btAnimal.Text = "Animal";
             this.btAnimal.UseVisualStyleBackColor = false;
+            this.btAnimal.Click += new System.EventHandler(this.btAnimal_Click);
             // 
             // btVintage
             // 
@@ -51,15 +52,16 @@
             this.btVintage.TabIndex = 1;
             this.btVintage.Text = "Vintage";
             this.btVintage.UseVisualStyleBackColor = false;
+            this.btVintage.Click += new System.EventHandler(this.btVintage_Click);
             // 
-            // Form1
+            // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btVintage);
             this.Controls.Add(this.btAnimal);
-            this.Name = "Form1";
+            this.Name = "FrmMain";
             this.Text = "Form1";
             this.ResumeLayout(false);
 

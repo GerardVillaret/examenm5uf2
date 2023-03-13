@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\bin\Debug\Examen M5.exe.config
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\bin\Debug\Examen M5.exe
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\bin\Debug\Examen M5.pdb
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen M5.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen M5.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen_M5.FormAnimals.resources
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen_M5.FormVintage.resources
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen_M5.FrmMain.resources
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen_M5.Properties.Resources.resources
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen M5.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen M5.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen M5.exe
+C:\Users\usuario\Desktop\M5\UF2\examenm5uf2\Examen M5\Examen M5\obj\Debug\Examen M5.pdb

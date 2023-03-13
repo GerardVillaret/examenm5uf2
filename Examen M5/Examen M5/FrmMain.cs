@@ -16,5 +16,17 @@ namespace Examen_M5
         {
             InitializeComponent();
         }
+
+        private void btAnimal_Click(object sender, EventArgs e)
+        {
+            FormAnimals formAnimals = new FormAnimals();
+            formAnimals.ShowDialog();
+        }
+
+        private void btVintage_Click(object sender, EventArgs e)
+        {
+            FormVintage formVintage = new FormVintage();
+            formVintage.ShowDialog();
+        }
     }
 }
