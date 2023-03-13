@@ -32,4 +32,10 @@ git add .
 git commit -m "Sisena versio"
 git push origin Ampliació
 
+EXERCICI 7
+git add .
+git commit -m "Update Examen.txt"
+git push origin Ampliació
+git checkout master
+git merge Ampliació
 
