@@ -52,6 +52,12 @@
     <Compile Include="FormAnimals.Designer.cs">
       <DependentUpon>FormAnimals.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormMenjar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenjar.Designer.cs">
+      <DependentUpon>FormMenjar.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormVintage.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +74,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormAnimals.resx">
       <DependentUpon>FormAnimals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenjar.resx">
+      <DependentUpon>FormMenjar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormVintage.resx">
       <DependentUpon>FormVintage.cs</DependentUpon>
@@ -103,6 +112,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\C037_Scozia_2880x1047.jpg.image.750.563.low.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza-con-chorizo-jamon-y-queso-1080x671.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

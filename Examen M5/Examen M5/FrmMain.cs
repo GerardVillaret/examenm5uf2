@@ -28,5 +28,11 @@ namespace Examen_M5
             FormVintage formVintage = new FormVintage();
             formVintage.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormMenjar formMenjar = new FormMenjar();
+            formMenjar.ShowDialog();
+        }
     }
 }

@@ -79,5 +79,15 @@ namespace Examen_M5.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pizza_con_chorizo_jamon_y_queso_1080x671 {
+            get {
+                object obj = ResourceManager.GetObject("pizza-con-chorizo-jamon-y-queso-1080x671", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
