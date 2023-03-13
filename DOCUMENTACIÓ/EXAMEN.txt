@@ -24,3 +24,12 @@ EXERCICI 5
 git add .
 git commit -m "Cinquena versio"
 git push origin master
+
+EXERCICI 6
+git branch Ampliació
+git checkout Ampliació
+git add .
+git commit -m "Sisena versio"
+git push origin Ampliació
+
+
